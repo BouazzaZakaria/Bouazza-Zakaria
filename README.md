@@ -46,3 +46,12 @@ A **Computer Science Master's Graduate** specializing in **Information Systems &
 | **[Student Performance Analysis](https://github.com/BouazzaZakaria/Syntecxhub_Student_Performance_Analysis)** | Analytical dataset evaluation to extract educational patterns and performance indicators. | `Python` `Analytics`|
 
 ---
+### 📊 GitHub Stats & Languages
+
+<p align="center">
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-stats-extended.vercel.app/api?username=BouazzaZakaria&show_icons=true&theme=radial&count_private=true" alt="Zakaria's GitHub Stats" />
+  <br /><br />
+  <!-- Top Languages -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BouazzaZakaria&layout=compact&theme=radial&hide_progress=false" alt="Top Languages" />
+</p>

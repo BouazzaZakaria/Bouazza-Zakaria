@@ -49,5 +49,8 @@ A **Computer Science Master's Graduate** specializing in **Information Systems &
 
 ### 📊 GitHub Stats
 
-![Zakaria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BouazzaZakaria&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BouazzaZakaria&layout=compact&theme=radial)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BouazzaZakaria&show_icons=true&theme=radial&count_private=true" alt="Zakaria's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BouazzaZakaria&layout=compact&theme=radial" alt="Top Languages" />
+</p>

@@ -1,15 +1,15 @@
 # Hi there, I'm Bouazza Zakaria Mohamed El Amine 👋
 
-A **Computer Science Master's Graduate** specializing in **Information Systems & Data** from USTO (Oran)[cite: 1]. I specialize in **full-stack web development, data analysis & visualization, cybersecurity scanner tools, and cloud architecture**[cite: 1].
+A **Computer Science Master's Graduate** specializing in **Information Systems & Data**. I specialize in **full-stack web development, data analysis & visualization, cybersecurity scanner tools, and cloud architecture**.
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 **Education:** Master's degree in Information Systems & Data (USTO Oran)[cite: 1].
-- ☁️ **Cloud Credentials:** AWS Academy Cloud Foundations Certified[cite: 1].
-- 💡 **Interests:** Security tool development, data analytics/dashboards, and building scalable full-stack applications[cite: 1].
-- 📬 **Contact:** zakibouazza1996@gmail.com[cite: 1] | [LinkedIn](https://www.linkedin.com/in/bouazza-zakaria)
+- 🎓 **Education:** Master's degree in Information Systems & Data (USTO Oran).
+- ☁️ **Cloud Credentials:** AWS Academy Cloud Foundations Certified.
+- 💡 **Interests:** Security tool development, data analytics/dashboards, and building scalable full-stack applications.
+- 📬 **Contact:** zakibouazza1996@gmail.com | [LinkedIn](https://www.linkedin.com/in/bouazza-zakaria)
 
 ---
 
@@ -42,8 +42,8 @@ A **Computer Science Master's Graduate** specializing in **Information Systems &
 | :--- | :--- | :--- |
 | **[xssguard](https://github.com/BouazzaZakaria/xssguard)** | Modern XSS defense and client-facing security scanner UI designed to analyze and secure web applications. | `TypeScript` `Security` |
 | **[spotify-analytics](https://github.com/BouazzaZakaria/spotify-analytics)** | Data pipeline and analytics tool to inspect listening patterns, tracks, and audio trends. | `Python` `Data Analysis` |
-| **[Sales Performance Dashboard](https://github.com/BouazzaZakaria/Syntecxhub_Sales-Performance-Dashboard)** | Interactive business intelligence dashboard visualizing performance metrics and revenue trends. | `Data Visualization` `Power BI`[cite: 1] |
-| **[Student Performance Analysis](https://github.com/BouazzaZakaria/Syntecxhub_Student_Performance_Analysis)** | Analytical dataset evaluation to extract educational patterns and performance indicators. | `Python` `Analytics`[cite: 1] |
+| **[Sales Performance Dashboard](https://github.com/BouazzaZakaria/Syntecxhub_Sales-Performance-Dashboard)** | Interactive business intelligence dashboard visualizing performance metrics and revenue trends. | `Data Visualization` `Power BI` |
+| **[Student Performance Analysis](https://github.com/BouazzaZakaria/Syntecxhub_Student_Performance_Analysis)** | Analytical dataset evaluation to extract educational patterns and performance indicators. | `Python` `Analytics`|
 
 ---
 

@@ -9,7 +9,7 @@ A **Computer Science Master's Graduate** specializing in **Information Systems &
 - 🎓 **Education:** Master's degree in Information Systems & Data (USTO Oran).
 - ☁️ **Cloud Credentials:** AWS Academy Cloud Foundations Certified.
 - 💡 **Interests:** Security tool development, data analytics/dashboards, and building scalable full-stack applications.
-- 📬 **Contact:** zakibouazza1996@gmail.com | [LinkedIn]((https://www.linkedin.com/in/bouazza-zakaria-a06bb92ba/))
+- 📬 **Contact:** zakibouazza1996@gmail.com | [LinkedIn](https://www.linkedin.com/in/bouazza-zakaria-a06bb92ba/)
 
 ---
 
